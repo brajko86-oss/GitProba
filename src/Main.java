@@ -6,5 +6,6 @@ public class Main {
             suma += i;
         }
         System.out.println("suma brojeva je = " + suma);
+        //test novog pusha
     }
 }
