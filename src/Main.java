@@ -7,5 +7,6 @@ public class Main {
         }
         System.out.println("suma brojeva je = " + suma);
         //test novog pusha
+        //fetch test
     }
 }
